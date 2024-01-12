@@ -1,2 +1,2 @@
 # testrepo
-Github training
+Github training from IBM
